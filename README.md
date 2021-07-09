@@ -1,2 +1,2 @@
-# JavaScript-random-number-game
- Basic practice for Js loops 
+# JavaScript-loop-practice
+ vanilla js sayı tahmin oyunu
